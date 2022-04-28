@@ -10,18 +10,18 @@ key_r 18
 
 key_z 44
 
-key_cup 17
+key_cup 87
 
-key_cdown 30
+key_cdown 83
 
-key_cleft 31
+key_cleft 65
 
-key_cright 32
+key_cright 68
 
-key_stickup 17
+key_stickup 38
 
-key_stickdown 31
+key_stickdown 40
 
-key_stickleft 30
+key_stickleft 37
 
-key_stickright 32
+key_stickright 39
